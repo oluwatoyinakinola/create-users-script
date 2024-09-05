@@ -5,3 +5,6 @@ Posting more updates into git_learning file
 Posting more updates into git_learning file2
 Masters potential update
 First branch potential conflict
+Making more changes to the text file
+
+We are good to go
