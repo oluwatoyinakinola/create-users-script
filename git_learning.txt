@@ -4,3 +4,4 @@ This is from the first branch
 Posting more updates into git_learning file
 Posting more updates into git_learning file2
 Masters potential update
+First branch potential conflict
